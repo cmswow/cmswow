@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi Welcome, I'm MYUNGSUN CHU 
 
-<!--
-**cmswow/cmswow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm working in South korea.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Java , Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I'm studying backend and love to talk about development trends.
+
+How to reach me? 🤔
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:cmswow28@gmail.com)
+
+cmswow28@gmail.com
+
+✍stack
+
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
