@@ -1,6 +1,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soryjn)](https://velog.io/@soryjn/posts))
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow&hide=contribs,prs&show_icons=true&theme=테마)
