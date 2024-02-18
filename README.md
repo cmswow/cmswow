@@ -2,7 +2,7 @@ Hi Welcome, I'm MYUNGSUN CHU
 
 🔭 I'm working in South korea.
 
-🌱 I’m currently learning Java , Javascript.
+🌱 I’m currently learning Java , Javascript, Spring boot
 
 ✨ I'm studying backend and love to talk about development trends.
 
