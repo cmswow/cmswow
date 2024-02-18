@@ -1,14 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+My BLOG 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soryjn)](https://velog.io/@soryjn/posts))
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow&hide=contribs,prs&show_icons=true&theme=테마)
 
 
 Hi Welcome, I'm MYUNGSUN CHU 
@@ -26,5 +19,16 @@ How to reach me? 🤔
 cmswow28@gmail.com
 
 ✍stack
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmswow&hide=contribs,prs&show_icons=true&theme=테마)
+
+
 
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
