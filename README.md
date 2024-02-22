@@ -3,6 +3,7 @@ My BLOG
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soryjn)](https://velog.io/@soryjn/posts))
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchu-myungsun&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
 Hi Welcome, I'm MYUNGSUN CHU 
