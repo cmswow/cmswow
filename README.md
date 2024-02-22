@@ -35,5 +35,9 @@ cmswow28@gmail.com
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cmswow&show_icons=true&theme=cobalt)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soryjn)](https://solved.ac/soryjn/)
+
+
+
 
 </div>
